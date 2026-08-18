@@ -4,6 +4,10 @@ SafeRoad is an advanced full-stack Road Accident Prediction & Risk Analysis Syst
 
 ---
 
+## Screenshots
+![alt text](<Screenshot 2026-08-19 001334.png>) ![alt text](<Screenshot 2026-08-18 183003.png>) ![alt text](<Screenshot 2026-08-18 182957.png>) ![alt text](<Screenshot 2026-08-18 182946.png>) ![alt text](<Screenshot 2026-08-18 182933.png>) ![alt text](<Screenshot 2026-08-18 182920.png>)
+
+
 ## Local Development Setup (VS Code)
 
 Follow these steps to run the application locally on your machine and local network via Visual Studio Code:
