@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoad",
+  "description": "SafeRoad Road Accident Prediction & Risk Analysis System with live location detection, weather risk analysis, severity prediction, interactive hotspot mapping, and emergency alerts.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
